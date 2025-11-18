@@ -1,0 +1,7 @@
+streamlit>=1.25
+requests
+pandas
+numpy
+matplotlib
+python-dotenv
+plotly
